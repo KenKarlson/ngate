@@ -1,4 +1,4 @@
-# Test mode timecode 34 form+ no public only
+# Test mode timecode 34 form+ no public only admin
 
 ## Project setup
 ```
